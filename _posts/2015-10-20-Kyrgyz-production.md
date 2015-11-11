@@ -5,7 +5,7 @@ title: Have you ever wondered what Kyrgyzstan produces?
 
 Recently, [a friend](http://pabloem.github.io) and I found a [dataset](http://www.stat.kg) of production of agricultural resources in Kyrgyzstan, and we decided to analyze it. We produced a couple visualizations, and after looking at the data, we found that it is possible to see some interesting trends.
 
-<iframe src="http://pabloem.github.io/kyrgyz-data/kg_production_map.html?lang=english" width="900" height="650" frameborder="0" scrolling="no"></iframe>
+<iframe src="http://pabloem.github.io/kyrgyz-data/kg_production_map.html?lang=english" width="900" height="750" frameborder="0" scrolling="no"></iframe>
 
 The general tendency we can observe is that after the collapse of the Soviet Union, the whole food production sector in Kyrgyzstan suffered. Production levels of many of these crops fell sharply around the year of 1991.
 
@@ -18,6 +18,6 @@ The most produced, and probably most consumed products in Kyrgyzstan, are wheat 
 Also, the visualization gives a distinct image of the main agricultural products for each region. For example, most part of potatoes (38%) is produced in Issyk-Kul oblast. Wheat is also mostly produced in Chui and Issyk-Kul oblasts. Other products, like fruits and berries, are famous in all the southern oblasts - Jalalabad, Osh and Batken. 
 There are also some problems with data. For example, we can see that rice production had increased greatly in Talas oblast, but since 2005 there is no data available. We didn’t look into why this data is absent from the dataset, but without it, we can’t be sure of what is the actual situation. For absent data points, we simply give them value of zero; that is also the reason that most charts start from zero.
 
-<iframe src="http://pabloem.github.io/kyrgyz-data/kg_production_chart.html" width="900" height="650" frameborder="0" scrolling="no"></iframe>
+<iframe src="http://pabloem.github.io/kyrgyz-data/kg_production_chart.html" width="900" height="700" frameborder="0" scrolling="no"></iframe>
 
 We spent a good while playing with the charts and looking at the data. They are interesting. I invite you to also look at it, and play around with the visualizations. You are welcome to leave any comments or suggestions. Also, if you have any interesting data, we will be happy to look at it together!
