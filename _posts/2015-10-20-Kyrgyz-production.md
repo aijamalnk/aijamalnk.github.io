@@ -3,7 +3,7 @@ layout: post
 title: Have you ever wondered what Kyrgyzstan produces?
 ---
 
-Recently, [a friend](pabloem.github.io) and I found a [dataset](www.stat.kg) of production of agricultural resources in Kyrgyzstan, and we decided to analyze it. We produced a couple visualizations, and after looking at the data, we found that it is possible to see some interesting trends.
+Recently, [a friend](http://pabloem.github.io) and I found a [dataset](http://www.stat.kg) of production of agricultural resources in Kyrgyzstan, and we decided to analyze it. We produced a couple visualizations, and after looking at the data, we found that it is possible to see some interesting trends.
 
 The general tendency we can observe is that after the collapse of the Soviet Union, the whole food production sector in Kyrgyzstan suffered. Production levels of many of these crops fell sharply around the year of 1991.
 
