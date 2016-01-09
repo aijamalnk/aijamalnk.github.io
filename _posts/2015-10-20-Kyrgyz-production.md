@@ -3,7 +3,7 @@ layout: post
 title: Have you ever wondered what Kyrgyzstan produces?
 ---
 
-Recently, [a friend](http://pabloem.github.io) and I found a [dataset](http://www.stat.kg) of production of agricultural resources in Kyrgyzstan, and we decided to analyze it. We produced a couple visualizations, and after looking at the data, we found that it is possible to see some interesting trends.
+Recently, [a friend](http://pabloem.github.io) and I found a [dataset](http://stat.kg/en/statistics/selskoe-hozyajstvo/) of production of agricultural resources in Kyrgyzstan, and we decided to analyze it. We produced a couple visualizations, and after looking at the data, we found that it is possible to see some interesting trends.
 
 <iframe src="http://pabloem.github.io/kyrgyz-data/kg_production_map.html?lang=english" width="900" height="750" frameborder="0" scrolling="no"></iframe>
 
