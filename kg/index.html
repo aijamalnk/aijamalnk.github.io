@@ -4,11 +4,11 @@ layout: default
 
 <div class="posts">
   {% for post in site.posts | sort:"date" %}
-  {% if post.language != "russian" and post.language != "kyrgyz"%}
+    {% if post.language == "kyrgyz" %}
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-      <div class="date"><small>Published {{ post.date | date_to_string }}</small></div>
+      <div class="date"><small>Publicado {{ post.date | date_to_string }}</small></div>
 
       <div class="entry">
         {{ post.content }}
@@ -16,6 +16,6 @@ layout: default
 
       <!--<a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>-->
     </article>
-  {% endif %}
+    {% endif %}
   {% endfor %}
 </div>
